@@ -1,0 +1,5 @@
+{
+    "token": "<DISCORD BOT TOKEN>",
+    "prefix": "BP!",
+    "dataPath": "./vote-data.json"
+}
